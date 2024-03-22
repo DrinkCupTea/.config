@@ -1,0 +1,7 @@
+# Ignore all files as default
+/*
+
+!.gitignore
+!/alacritty/
+!/scripts/
+
